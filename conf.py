@@ -31,7 +31,7 @@ copyright = '2019 - %s, %s' % (datetime.datetime.now().year, author)
 #####     AND IT SHOULD ALSO BE THE SAME NAME ON READTHEDOCS 
 #####     (like i.e. jupman.readthedocs.org)
 
-filename = 'jupman'   # The filename without the extension
+filename = 'SciProAlgo'   # The filename without the extension
 
 # common files for exercise and exams as paths. Paths are intended relative to the project root. Globs like /**/* are allowed.
 
